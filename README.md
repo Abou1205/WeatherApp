@@ -39,4 +39,4 @@ This application uses the OpenWeatherMap API to fetch weather data. You need to 
 
 ![](images/weather.gif)
 
-You can see the project from this link: 
+You can see the project from this link: https://weatherappprojectjs.netlify.app
