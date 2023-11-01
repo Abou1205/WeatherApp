@@ -20,7 +20,7 @@ searchInput.addEventListener("keydown", (event) =>{
 
 // Function to fetch and display weather information
 function searchWeather() {
-    const APIKey = 'a4637806fa912486501df26f2a2c6072'; // OpenWeatherMap API key
+    const APIKey = 'Your Api Key'; // OpenWeatherMap API key
     const city = searchInput.value; // Get the city input from the user
 
     // Check if the city input is empty
