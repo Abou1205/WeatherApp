@@ -21,7 +21,7 @@ This is a simple weather application that allows users to check the weather cond
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/weather-application.git
+   git clone https://github.com/Abou1205/weather-application.git
    ```
 
 2. Open `index.html` in your web browser to use the weather application.
